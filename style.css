@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+button{
+    width: 160px;
+    height: 60px;
+    border: 3px solid black;
+    background-color: darkblue;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+}
+img{
+    height: 400px;
+}
+
+#concertar{
+    display: none;
+}
